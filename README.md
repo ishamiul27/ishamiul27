@@ -1,9 +1,11 @@
-<h1> 
-  Hi, I'm Shamiul! <br/>
-  <a href="https://github.com/ishamiul27">Big Data Ananlyst</a>, 
-  <a href="https://www.linkedin.com/in/shamiul27/">Financial Analyst</a>, 
-  <a href="https://www.linkedin.com/in/shamiul27/">Statistical Analyst </a>
-</h1>
+<div>
+  <h1>
+    Hi, I'm Shamiul..! </br>
+    <p>📊 Big Data Analyst | 📈 Statistical Analyst | 💰 Financial Analyst</p>
+  </h1> 
+
+</div>
+
 
 <h2>📊 Data Analytics Projects:</h2>
 
