@@ -1,9 +1,26 @@
-<h2>
-Hi, I'm Shamiul!  <br/>
-    <small> 📊 Big Data Analyst | 📈 Statistical Analyst | 💰 Financial Analyst </small
-</h2>
+## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/melissa-keqi-yu/)
 
-<h4>📊 Data Analytics Projects:</h4>
+
+<img 
+  align="right" 
+  alt="GIF" 
+  src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
+  width="375" 
+  height="240" 
+  style="margin-top: 75px;"
+/>
+
+
+I'm **Shamiul**, a recent MSc graduate in Big Data Financial Analytics from Trent University. I am passionate about harnessing the power of data to drive strategic decision-making in the finance sector. As I pursue my career as a full stack data analyst, I'm excited to combine my analytical skills with cutting-edge technologies to uncover valuable insights and contribute to innovative financial solutions 💪.
+
+My GitHub info:
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishamiul27&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
+
+
+Below are the DATA related projects I have done!  🧮
+
+## 📊 Data Analytics Projects
 
 
 - <b>Python Projects</b>
