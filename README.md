@@ -1,13 +1,13 @@
-<h3>
+<h2>
 Hi, I'm Shamiul!  <br/>
     <small> 📊 Big Data Analyst | 📈 Statistical Analyst | 💰 Financial Analyst </small
-</h3>
+</h2>
 
 <h4>📊 Data Analytics Projects:</h4>
 
 
 - <b>Python Projects</b>
-  - [Benford's Law Fraud Analysis of 2016 US Presidential Election Data](https://github.com/user-attachments/assets/e4062504-6229-44c1-91a6-785d9ff6d3a2)
+  - [Benford's Law: Fraud Analysis of 2016 US Presidential Election Data](https://github.com/user-attachments/assets/e4062504-6229-44c1-91a6-785d9ff6d3a2)
 
 - <b> R Projects </b>
   - [Praciting Multiple Linear Regresion Model in R](https://github.com/ishamiul27/Multiple-Linear-Regression)
