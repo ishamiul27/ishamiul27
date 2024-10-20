@@ -11,14 +11,12 @@
 />
 
 
-I'm **Shamiul**, a recent MSc graduate in Big Data Financial Analytics from Trent University. I am passionate about harnessing the power of data to drive strategic decision-making in the finance sector. As I pursue my career as a full stack data analyst, I'm excited to combine my analytical skills with cutting-edge technologies to uncover valuable insights and contribute to innovative financial solutions 💪.
+I'm **Shamiul**, a recent MSc graduate in quantitative analysis from Trent University. I'm passionate about leveraging data to drive decision-making and am on the path to becoming a full stack data analyst. Excited for the journey ahead! 💪 💪.
 
 My GitHub info:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ishamiul27&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
-
-Below are the DATA related projects I have done!  🧮
 
 ## 📊 Data Analytics Projects
 
