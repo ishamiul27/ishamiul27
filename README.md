@@ -11,7 +11,7 @@
 />
 
 
-I'm **Shamiul**, a recent MSc graduate in quantitative analysis from Trent University. I'm passionate about leveraging data to drive decision-making and am on the path to becoming a full stack data analyst. Excited for the journey ahead! 💪 💪.
+I'm **Shamiul**, a recent MSc graduate in quantitative analysis from Trent University. I'm passionate about leveraging data to drive decision-making and am on the path to becoming a full stack data analyst. Excited for the journey ahead! 💪
 
 My GitHub info:
 
@@ -26,7 +26,7 @@ My GitHub info:
 
 - <b> R Projects </b>
   - [Praciting Multiple Linear Regresion Model in R](https://github.com/ishamiul27/Multiple-Linear-Regression)
-  - 
+    
 - <b> Tableau Projects </b>
   - [Bank Loan KPI Analysis](https://public.tableau.com/app/profile/md.shamiul.islam8451/viz/Project_17295709723800/Overview)
 <h2> 🤳 Connect with me:</h2>
