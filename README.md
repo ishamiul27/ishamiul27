@@ -29,6 +29,8 @@ My GitHub info:
     
 - <b> Tableau Projects </b>
   - [Bank Loan KPI Analysis](https://public.tableau.com/app/profile/md.shamiul.islam8451/viz/Project_17295709723800/Overview)
+  - [Sales Data Summary](https://public.tableau.com/app/profile/md.shamiul.islam8451/viz/StoreSalesDashboard_17296413462160/Dashboard1)
+  - 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Shamiul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shamiul27)
