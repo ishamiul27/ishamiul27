@@ -29,7 +29,7 @@ My GitHub info:
     
 - <b> Tableau Projects </b>
   - [Bank Loan KPI Analysis](https://public.tableau.com/app/profile/md.shamiul.islam8451/viz/Project_17295709723800/Overview)
-  - [Sales Data Summary](https://public.tableau.com/app/profile/md.shamiul.islam8451/viz/StoreSalesDashboard_17296413462160/Dashboard1)
+  - [Sales Data Deshboard](https://public.tableau.com/views/Sales_Dasboard_17296596854140/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 <h2> 🤳 Connect with me:</h2>
 
