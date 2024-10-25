@@ -29,8 +29,10 @@ My GitHub info:
   - [Praciting Multiple Linear Regresion Model in R](https://github.com/ishamiul27/Multiple-Linear-Regression)
     
 - <b> Tableau Projects </b>
+  - [Sales Dashboard](https://public.tableau.com/views/Sales_Deshboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - [Bank Loan KPI Analysis](https://public.tableau.com/app/profile/md.shamiul.islam8451/viz/Project_17295709723800/Overview)
   - [Sales Data Deshboard](https://public.tableau.com/views/Sales_Dasboard_17296596854140/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - 
     
 <h2> 🤳 Connect with me:</h2>
 
